@@ -27,7 +27,6 @@
 JASEE(자세히봐)는 **헬스케어 (Healthcare) / 재활 (Rehabilitation)** 분야를 위한 AI 자세 분석 시스템입니다.
 <div align="center">
   <img width="1230" height="577" alt="image" src="https://github.com/user-attachments/assets/bf5b3fe3-dec7-4962-9a4b-063645937b13" />
-  [서비스 컨셉]
 </div>
 
 
