@@ -27,8 +27,9 @@
 JASEE(자세히봐)는 **헬스케어 (Healthcare) / 재활 (Rehabilitation)** 분야를 위한 AI 자세 분석 시스템입니다.
 <div align="center">
   <img width="1230" height="577" alt="image" src="https://github.com/user-attachments/assets/bf5b3fe3-dec7-4962-9a4b-063645937b13" />
-  > [서비스 컨셉]
+  [서비스 컨셉]
 </div>
+
 
 - 사용자의 신체 관절 좌표를 실시간으로 추출하여 자세의 정확도를 분석합니다.
 - 작업 환경 내 물체 인식을 병행하여 **맥락 기반 자세 및 작업환경 통합교정 피드백 (Context-based posture and work environment integrated correction feedback)**을 제공합니다.
