@@ -1,7 +1,10 @@
 <div align="center">
 
 # 🏥 JASEE (자세히봐)
-### AI 기반 자세 분석 및 헬스케어 재활 보조 시스템 (AI-based Posture Analysis & Healthcare Rehabilitation Assistive System)
+### OpenCV 기반 VDT취급 근로자의 앉은 자세와 작업 환경 
+실시간 통합 교정 및 지속 관리 솔루션 “JASEE (자세히봐)”
+<img width="1371" height="153" alt="image" src="https://github.com/user-attachments/assets/cddd4d80-eafb-4bfa-a729-3b1bef94ffca" />
+
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Pose-green?style=for-the-badge)
@@ -26,8 +29,8 @@
 JASEE(자세히봐)는 **헬스케어 (Healthcare) / 재활 (Rehabilitation)** 분야를 위한 AI 자세 분석 시스템입니다.
 
 - 사용자의 신체 관절 좌표를 실시간으로 추출하여 자세의 정확도를 분석합니다.
-- 작업 환경 내 물체 인식을 병행하여 **맥락 기반 자세 피드백 (Context-aware Posture Feedback)**을 제공합니다.
-- RAG (Retrieval-Augmented Generation, 검색 증강 생성) 기반 지식 검색으로 재활 가이드라인을 자동 제공합니다.
+- 작업 환경 내 물체 인식을 병행하여 **맥락 기반 자세 및 작업환경 통합교정 피드백 (Context-based posture and work environment integrated correction feedback)**을 제공합니다.
+- RAG (Retrieval-Augmented Generation, 검색 증강 생성) 기반 지식 검색으로 사용자 맞춤 피드백 및 재활 가이드라인을 자동 제공합니다.
 
 ```
 사용자 영상 입력 (User Video Input)
