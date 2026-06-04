@@ -8,6 +8,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?style=for-the-badge&logo=pytorch)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-teal?style=for-the-badge&logo=fastapi)
 
+
+### 시연 화면 (Demo)
+> 결과 이미지 및 데모 영상은 `assets/` 디렉토리에 업데이트되어 있습니다.
+
+<div align="center">
+  <img src="logo.png" width="400" alt="JASEE Logo">
+</div>
+
 > **JASEE**는 YOLOv8-Pose와 Attention MLP를 결합하여 사람의 자세를 실시간 분석하고,  
 > 재활 운동 보조 및 헬스케어 피드백을 제공하는 AI 시스템입니다.
 
@@ -212,14 +220,6 @@ threshold: 0.40 (Recall 극대화를 위한 최적 임계값)
 ---
 
 ## 🏆 10. 결과 (Results)
-
-### 시연 화면 (Demo)
-> 결과 이미지 및 데모 영상은 `assets/` 디렉토리에 업데이트되어 있습니다.
-
-<div align="center">
-  <img src="logo.png" width="400" alt="JASEE Logo">
-</div>
-
 ### 주요 성과
 - ✅ 실시간 자세 분류 정확도: **93.75%** (나쁜 자세 감출 재현율 (Recall): **95.45%**)
 - ✅ 작업 환경 물체 인식 mAP@0.5: **85.0% 이상**
