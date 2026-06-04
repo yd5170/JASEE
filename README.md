@@ -9,8 +9,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-teal?style=for-the-badge&logo=fastapi)
 
 
-### 시연 화면 (Demo)
-> 결과 이미지 및 데모 영상은 `assets/` 디렉토리에 업데이트되어 있습니다.
 
 <div align="center">
   <img src="logo.png" width="400" alt="JASEE Logo">
