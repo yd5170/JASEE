@@ -1,8 +1,6 @@
 <div align="center">
 
 # 🏥 JASEE (자세히봐)
-### OpenCV 기반 VDT취급 근로자의 앉은 자세와 작업 환경 
-실시간 통합 교정 및 지속 관리 솔루션 “JASEE (자세히봐)”
 <img width="1371" height="153" alt="image" src="https://github.com/user-attachments/assets/cddd4d80-eafb-4bfa-a729-3b1bef94ffca" />
 
 
