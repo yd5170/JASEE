@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Pose-green?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?style=for-the-badge&logo=pytorch)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-teal?style=for-the-badge&logo=fastapi)
 
 
 
