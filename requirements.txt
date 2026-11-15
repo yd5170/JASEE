@@ -7,8 +7,6 @@ ultralytics>=8.4.0
 # 웹앱
 streamlit>=1.40.0
 streamlit-webrtc>=0.47.0
-libgl1
-libglib2.0-0
 
 # 컴퓨터 비전
 opencv-python>=4.10.0
@@ -24,6 +22,15 @@ albumentations>=1.4.0
 
 # 음성 안내
 pyttsx3>=2.90
+
+# 챗봇
+python-dotenv
+chromadb
+sentence-transformers
+openai
+
+# PDF 리포트
+reportlab
 
 # 기타
 requests>=2.31.0
