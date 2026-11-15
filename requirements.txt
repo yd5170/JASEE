@@ -7,6 +7,8 @@ ultralytics>=8.4.0
 # 웹앱
 streamlit>=1.40.0
 streamlit-webrtc>=0.47.0
+libgl1
+libglib2.0-0
 
 # 컴퓨터 비전
 opencv-python>=4.10.0
